@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3418f666-ee55-40c0-92f8-0a0188201ffb" name="Changes" comment="PDM-505/feat Add user service to find user by ID" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24F7Oov0kw3DzB5p8BapIoOYNDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JavaChallenge" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\Desktop\backend-sample-2\src\test" />
+      <recent name="C:\Users\Samsung\Desktop\backend-sample-2\src\test\java\resources\stubs" />
+      <recent name="C:\Users\Samsung\Desktop\backend-sample-2\src\test\java\com\backendsocialnetworkapplication\service\client" />
+      <recent name="C:\Users\Samsung\Desktop\backend-sample-2\src\test\java\resources" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.backendsocialnetworkapplication.service.client" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.backendsocialnetworkapplication.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerIT">
+    <configuration name="PostControllerIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend-social-network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backendsocialnetworkapplication.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backendsocialnetworkapplication.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.backendsocialnetworkapplication.controller.PostControllerIT" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend-social-network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backendsocialnetworkapplication.service.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backendsocialnetworkapplication.service.client" />
+      <option name="MAIN_CLASS_NAME" value="com.backendsocialnetworkapplication.service.client.UserClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserClientTest.getAllUsersWhenValidClientReturnValidResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend-social-network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backendsocialnetworkapplication.service.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backendsocialnetworkapplication.service.client" />
+      <option name="MAIN_CLASS_NAME" value="com.backendsocialnetworkapplication.service.client.UserClientTest" />
+      <option name="METHOD_NAME" value="getAllUsersWhenValidClientReturnValidResponse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend-social-network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backendsocialnetworkapplication.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backendsocialnetworkapplication.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.backendsocialnetworkapplication.controller.UserControllerIT" />
+      <option name="METHOD_NAME" value="shouldGetUserProfileSuccessfully" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerIT.shouldGetUserProfileSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="backend-social-network" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.backendsocialnetworkapplication.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.backendsocialnetworkapplication.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.backendsocialnetworkapplication.controller.UserControllerIT" />
+      <option name="METHOD_NAME" value="shouldGetUserProfileSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerIT" />
+        <item itemvalue="JUnit.PostControllerIT" />
+        <item itemvalue="JUnit.UserControllerIT.shouldGetUserProfileSuccessfully" />
+        <item itemvalue="JUnit.UserClientTest.getAllUsersWhenValidClientReturnValidResponse" />
+        <item itemvalue="JUnit.UserClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3418f666-ee55-40c0-92f8-0a0188201ffb" name="Changes" comment="" />
+      <created>1643214454701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643214454701</updated>
+    </task>
+    <task id="LOCAL-00001" summary="PDM-505/feat Add initial project with Post Repository, Entities and Readme">
+      <created>1643216047943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643216047943</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PDM-505/feat Add Post Service containing rules to insert a post and get posts.">
+      <created>1643216118631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643216118631</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PDM-505/feat Add ShareService to share a post, Quote Service to quote a post and the response object.">
+      <created>1643216194142</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643216194142</updated>
+    </task>
+    <task id="LOCAL-00004" summary="PDM-505/feat Add user service to find user by ID">
+      <created>1643216235239</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643216235239</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="PDM-505/feat Add initial project with Post Repository, Entities and Readme" />
+    <MESSAGE value="PDM-505/feat Add Post Service containing rules to insert a post and get posts." />
+    <MESSAGE value="PDM-505/feat Add ShareService to share a post, Quote Service to quote a post and the response object." />
+    <MESSAGE value="PDM-505/feat Add user service to find user by ID" />
+    <option name="LAST_COMMIT_MESSAGE" value="PDM-505/feat Add user service to find user by ID" />
+  </component>
+</project>

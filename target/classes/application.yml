@@ -1,0 +1,14 @@
+feign.httpclient.enabled: true
+feign.okhttp.enabled: true
+client:
+  post:
+    baseUrl: https://localhost:8080/users
+
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: BASIC
